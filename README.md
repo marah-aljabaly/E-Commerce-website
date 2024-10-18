@@ -1,0 +1,1 @@
+* This is the first e-commerce project I did during my training journey with the business network company, showing data from api directly, where I used specific features from HTML, CSS and JS identified by the trainer.
